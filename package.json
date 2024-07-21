@@ -1,8 +1,8 @@
 {
   "name": "@Jagrat-Gupta/lab4",
   "version": "7.7.7",
-  "author": "Siddharth Barahalikar <barahalikar.siddharth@gmail.com>",
-  "homepage": "https://www.linkedin.com/in/barahalikar-siddharth/",
+  "author": "Jagrat Gupta <jagrat.gupta12@gmail.com>",
+  "homepage": "https://www.linkedin.com/in/jagrat-gupta/",
   "license": "MIT",
   "scripts": {
     "start": "node app.js",
